@@ -1,5 +1,4 @@
-# flutter_jet_robot_game
-
+# Macross
 A new Flutter project.
 
 ## Getting Started
