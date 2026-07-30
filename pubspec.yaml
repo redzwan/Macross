@@ -1,0 +1,21 @@
+name: flutter_jet_robot_game
+description: A new Flutter project for a 2D jet-to-robot game using Flame.
+publish_to: none
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.35.1
+  rxdart: ^0.27.0
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
